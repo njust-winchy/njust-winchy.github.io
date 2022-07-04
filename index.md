@@ -6,12 +6,10 @@ I am very interested in technology, if you are interested in python programming,
 
 ### Research Direction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 · Knowledge base question answering
 
-'''
+```
 
 ### Interest
 
