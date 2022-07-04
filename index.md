@@ -8,7 +8,6 @@ I am very interested in technology, if you are interested in python programming,
 
 ```markdown
 · Knowledge base question answering
-
 ```
 
 ### Interest
