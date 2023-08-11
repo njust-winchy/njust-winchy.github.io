@@ -18,6 +18,4 @@ I am very interested in technology, if you are interested in python programming,
 
 ### Contact
 
-· Phone Number : +86 18366114634
-
 · Mail Account : winchywwq@163.com
