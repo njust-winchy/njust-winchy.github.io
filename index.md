@@ -28,6 +28,6 @@ I am very interested in technology, if you are interested in python programming,
 >
 >Wenqing Wu, Chengzhi Zhang\*, Tong Bao, Yi Zhao. SC4ANM: Identifying optimal section combinations for automated novelty prediction in academic papers. ***Expert Systems With Applications***, 2025, 273: 126778. https://doi.org/10.1016/j.eswa.2025.126778.
 >
->Wenqing Wu, Yi Zhao, Yuzhuo Wang, Siyou Li, Juexi Shao, Yunfei Long\*, Chengzhi Zhang\*. NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment. In: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL2026), San Diego, United States, 2026. doi.org/10.18653/v1/2026.findings-acl.1607.
+>Wenqing Wu, Yi Zhao, Yuzhuo Wang, Siyou Li, Juexi Shao, Yunfei Long\*, Chengzhi Zhang\*. NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment. In: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL2026), San Diego, United States, 2026.  https://doi.org/10.18653/v1/2026.findings-acl.1607.
 >
->Wenqing Wu, Chengzhi Zhang\*, Yi Zhao & Tong Bao. Impact of large language models on peer review opinions from a fine-grained perspective: evidence from top conference proceedings in AI. ***Scientometrics***, 2026, 131(5): 3547–3584. doi.org/10.1007/s11192-026-05645-7.
+>Wenqing Wu, Chengzhi Zhang\*, Yi Zhao & Tong Bao. Impact of large language models on peer review opinions from a fine-grained perspective: evidence from top conference proceedings in AI. ***Scientometrics***, 2026, 131(5): 3547–3584.  https://doi.org/10.1007/s11192-026-05645-7.
